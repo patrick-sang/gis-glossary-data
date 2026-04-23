@@ -1,0 +1,92 @@
+{
+	"schema": {
+		"properties": {},
+		"@type": "schema"
+	},
+	"terms": [
+		{
+			"termItem": [
+				{
+					"term": "Automated Valuation Model (AVM)",
+					"sector": "Real Estate",
+					"definition": "A GIS-integrated property valuation system that uses spatial analysis, comparable sales, and location attributes to estimate real estate values automatically."
+				},
+				{
+					"term": "Location Intelligence",
+					"sector": "Real Estate",
+					"definition": "The process of analyzing geospatial data to derive insights for site selection, market analysis, and property investment decisions in real estate."
+				},
+				{
+					"term": "Walkability Score",
+					"sector": "Real Estate",
+					"definition": "A GIS-based metric measuring how easily residents can access amenities like shops, parks, and transit within walking distance, influencing property values."
+				},
+				{
+					"term": "Catastrophe Modeling",
+					"sector": "Insurance",
+					"definition": "GIS-based risk assessment for natural disasters (floods, hurricanes, wildfires) used by insurers to price policies and manage exposure."
+				},
+				{
+					"term": "Flood Zone Determination",
+					"sector": "Insurance",
+					"definition": "Using GIS to identify properties within FEMA-designated flood zones, critical for underwriting flood insurance policies and calculating premiums."
+				},
+				{
+					"term": "Risk Terrain Modeling",
+					"sector": "Insurance",
+					"definition": "A spatial analysis technique that identifies geographic risk factors for crime, accidents, or property damage, used in liability and property insurance."
+				},
+				{
+					"term": "Geofencing",
+					"sector": "Marketing",
+					"definition": "Creating virtual geographic boundaries using GPS/beacons to trigger targeted mobile ads or notifications when customers enter a specific area."
+				},
+				{
+					"term": "Trade Area Analysis",
+					"sector": "Marketing",
+					"definition": "Using GIS to define and analyze the geographic region from which a business draws its customers, optimizing store locations and marketing spend."
+				},
+				{
+					"term": "Customer Segmentation by Location",
+					"sector": "Marketing",
+					"definition": "Grouping customers based on geographic and demographic data to tailor marketing campaigns, product offerings, and media buying strategies."
+				},
+				{
+					"term": "Smart Growth",
+					"sector": "Urban Planning",
+					"definition": "Urban planning approach using GIS to promote compact, transit-oriented, walkable communities while preserving natural resources."
+				},
+				{
+					"term": "Land Use & Land Cover (LULC)",
+					"sector": "Urban Planning",
+					"definition": "GIS classification of land into categories like residential, commercial, agricultural, or forest, essential for urban growth management."
+				},
+				{
+					"term": "Last Mile Delivery Optimization",
+					"sector": "Logistics",
+					"definition": "Using GIS route planning to optimize final delivery from distribution hubs to customers, reducing fuel costs and delivery times."
+				},
+				{
+					"term": "Service Area Analysis",
+					"sector": "Logistics",
+					"definition": "GIS modeling of travel time or distance from facilities to determine coverage zones, critical for warehouse and distribution network planning."
+				},
+				{
+					"term": "Carbon Sequestration Mapping",
+					"sector": "Environment",
+					"definition": "Using GIS to identify areas with high carbon storage potential, supporting environmental offset programs and sustainability reporting."
+				},
+				{
+					"term": "Habitat Fragmentation Analysis",
+					"sector": "Environment",
+					"definition": "GIS assessment of how development breaks up natural habitats, used in environmental impact studies and conservation planning."
+				},
+				{
+					"term": "Geospatial Artificial Intelligence (GeoAI)",
+					"sector": "General",
+					"definition": "Combining machine learning with GIS for predictive analytics across real estate valuation, insurance risk, and customer behavior forecasting."
+				}
+			]
+		}
+	]
+}
