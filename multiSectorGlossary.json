@@ -54,7 +54,7 @@
 				{
 					"term": "Smart Growth",
 					"sector": "Urban Planning",
-					"definition": "Urban planning approach using GIS to promote compact, transit-oriented, walkable communities while preserving natural resources."
+					"definition": "Urban planning approach using GIS to promote compact, transit-oriented, walkable communities while preserving natural resources.\nUrban planning approach using GIS to promote compact, transit-oriented, walkable communities while preserving natural resources.\nUrban planning approach using GIS to promote compact, transit-oriented, walkable communities while preserving natural resources."
 				},
 				{
 					"term": "Land Use & Land Cover (LULC)",
@@ -86,6 +86,26 @@
 					"sector": "General",
 					"definition": "Combining machine learning with GIS for predictive analytics across real estate valuation, insurance risk, and customer behavior forecasting."
 				}
+			]
+		},
+		{
+			"termItem": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
 			]
 		}
 	]
